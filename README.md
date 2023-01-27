@@ -15,6 +15,14 @@
 
 <br>
 
+[Deployment](https://jesterb0206.github.io/horiseon/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ## Table of Contents
 
 <br>
