@@ -59,6 +59,14 @@ A webpage that is optimized for search engines and meets accessibility standards
 
 <br>
 
+**Horiseon** is a static webpage, however, it does feature working links in the navigation bar if you wish to learn more about search engine optimization, online reputation management or social media marketing. Please note, the layout is designed for "desktop", so you may notice that some of the elements don't look like the image down below when viewed at a resolution smaller than 768px.
+
+<br>
+
+![Horiseon Webpage](assets/images/horiseon.png)
+
+<br>
+
 ## Badges
 
 <br>
