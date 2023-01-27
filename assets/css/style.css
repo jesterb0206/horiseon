@@ -13,6 +13,7 @@
 body {
   background-color: #d9dcd6;
   color: #ffffff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /*----------------------------------------------------------------*/
@@ -43,7 +44,6 @@ span {
 
 nav {
   float: right;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
   margin-right: 20px;
   padding-top: 15px;
@@ -89,8 +89,6 @@ main {
 
 section {
   background-color: #0072bb;
-  color: #ffffff;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   height: 300px;
   margin-bottom: 20px;
   padding: 50px;
@@ -133,64 +131,36 @@ p {
 
 /*----------------------------------------------------------------*/
 
-.benefits {
-  margin-right: 20px;
-  padding: 20px;
+/* Defines content aside from the page content, which in this case is the Lead Generation, Brand Awareness and Cost Management sections on the right-hand side of the webpage */
+
+aside {
+  background-color: #2589bd;
   clear: both;
   float: right;
-  width: 20%;
   height: 100%;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #2589bd;
+  margin-right: 20px;
+  padding: 20px;
+  width: 20%;
 }
 
-.benefit-lead {
+div {
   margin-bottom: 32px;
-  color: #ffffff;
 }
 
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-lead h3 {
+h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
+/* Styling that's unique to images in the aside element */
 
-.benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-lead img {
+div img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
+/*----------------------------------------------------------------*/
 
 .footer {
   padding: 30px;
