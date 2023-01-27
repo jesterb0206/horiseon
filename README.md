@@ -55,6 +55,10 @@ A webpage that is optimized for search engines and meets accessibility standards
 
 <br>
 
+No dependencies are required to run **Horiseon** on localhost.
+
+<br>
+
 ## Usage
 
 <br>
