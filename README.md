@@ -47,7 +47,7 @@
 
 <br>
 
-A webpage that is optimized for search engines and meets accessibility standards.
+Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. **Horiseon** is a webpage that is both optimized for search engines and meets accessibility standards. It features semantic HTML elements, accessible alt attributes, a concise, descriptive title and much more!
 
 <br>
 
